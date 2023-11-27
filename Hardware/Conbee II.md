@@ -1,1 +1,1 @@
-Hardware dongel Zigbee organiser / orchistrator
+USB dongel Zigbee organiser / orchistrator

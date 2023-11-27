@@ -1,6 +1,6 @@
 ## Bovenste knoppen
 
-```
+```yaml
 alias: Bovenste knoppen
 description: ""
 trigger:
@@ -42,7 +42,7 @@ mode: single
 
 ## Knop linksboven
 
-```
+```yaml
 alias: Knop linksboven
 description: ""
 trigger:
@@ -76,7 +76,7 @@ mode: single
 
 ## Knop linksonder
 
-```
+```yaml
 alias: Knop linksonder
 description: ""
 trigger:
@@ -97,7 +97,7 @@ mode: single
 
 ## Knop rechtsboven
 
-```
+```yaml
 alias: Knop rechtsboven
 description: ""
 trigger:
@@ -131,7 +131,7 @@ mode: single
 
 ## Knop rechtsonder
 
-```
+```yaml
 alias: Knop rechtsonder
 description: ""
 trigger:
@@ -152,7 +152,7 @@ mode: single
 
 ## Onderste knoppen
 
-```
+```yaml
 alias: Onderste knoppen
 description: ""
 trigger:
