@@ -1,4 +1,5 @@
 ## Bovenste knoppen
+
 ```
 alias: Bovenste knoppen
 description: ""
@@ -40,6 +41,7 @@ mode: single
 ```
 
 ## Knop linksboven
+
 ```
 alias: Knop linksboven
 description: ""
@@ -72,6 +74,8 @@ action:
 mode: single
 ```
 
+## Knop linksonder
+
 ```
 alias: Knop linksonder
 description: ""
@@ -90,6 +94,8 @@ action:
     domain: light
 mode: single
 ```
+
+## Knop rechtsboven
 
 ```
 alias: Knop rechtsboven
@@ -123,6 +129,8 @@ action:
 mode: single
 ```
 
+## Knop rechtsonder
+
 ```
 alias: Knop rechtsonder
 description: ""
@@ -141,6 +149,8 @@ action:
     domain: light
 mode: single
 ```
+
+## Onderste knoppen
 
 ```
 alias: Onderste knoppen
