@@ -24,3 +24,10 @@ op [[Raspberry PI 4B]] met een [[Conbee II]] stick
 Op [[Raspberry PI 2B]]
 
 Gestopt vanwege corrupte microSD
+
+```
+server: mqtt://core-mosquitto:1883
+
+port: /dev/ttyACM0
+adapter: deconz
+```
