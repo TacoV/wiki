@@ -1,3 +1,11 @@
+Bulbs boven de tafel:
+[https://www.zigbee2mqtt.io/devices/LED1842G3.html](https://www.zigbee2mqtt.io/devices/LED1842G3.html)
+
+Spotjes in de slaapkamer:
+[https://www.zigbee2mqtt.io/supported-devices/#v=IKEA&s=GU10](https://www.zigbee2mqtt.io/supported-devices/#v=IKEA&s=GU10)
+
+
+
 ## Pairen
 1. Permit join aanzetten op [[Zigbee2MQTT]]
 2. 6 keer aanzetten, 5 keer uit - [zie video](https://www.youtube.com/watch?v=mJm9YpPrGzk)
